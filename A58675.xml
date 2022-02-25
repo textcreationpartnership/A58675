@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ansvver to John Lyons very weak defence of his most wicked, innovated oppression. Or The exchequer gallon proved to be a standard only for dry things Or, A further manifestation, that the Troy weight, and the wine measures, are to standards of England for weights and measures. Written in defence of the practice of the present and all former commissioners of excise, who have, from the beginning of the laws of excise, made use of three several gallons in gaugeing things excisable, as the wine gallon, ale gallon, and the corn gallon. Written by S. S. philomathematicus.</title>
+            <author>S. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58675</idno>
+            <idno type="STC">Wing S141A</idno>
+            <idno type="STC">ESTC R219797</idno>
+            <idno type="EEBO-CITATION">99831244</idno>
+            <idno type="PROQUEST">99831244</idno>
+            <idno type="VID">35707</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35707)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2041:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ansvver to John Lyons very weak defence of his most wicked, innovated oppression. Or The exchequer gallon proved to be a standard only for dry things Or, A further manifestation, that the Troy weight, and the wine measures, are to standards of England for weights and measures. Written in defence of the practice of the present and all former commissioners of excise, who have, from the beginning of the laws of excise, made use of three several gallons in gaugeing things excisable, as the wine gallon, ale gallon, and the corn gallon. Written by S. S. philomathematicus.</title>
+                  <author>S. S.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year. 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Imperfect; cropped at head with some loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lyon, John, --  professor of mathematics. --  Exchequer gallon vindicated to b.</term>
+               <term>Weights and measures --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35707:1" rendition="simple:additions"/>
+            <p>ANSWER TO <hi>JOHN LYONS</hi> Very weak Defence of his moſt Wicked, Innovated Oppreſſion.</p>
+            <p>OR THE EXCHEQUER GALLON Proved to be a Standard only for Dry things.</p>
+            <p>
+               <hi>Or,</hi> A further Manifeſtation, That the TROY Weight, and the Wine Meaſures, are the Standards of <hi>England</hi> for Weights and Meaſures.</p>
+            <p>
+               <hi>Written</hi> In Defence of the Practice of the preſent and all former Commiſſioners of Exciſe, who have, from the beginning of the Laws of Exciſe, made uſe of three ſeveral Gallons in Gaugeing things Exciſable, as the Wine Gallon, Ale Gallon, and the Corn Gallon.</p>
+            <p>
+               <hi>Written by</hi> S. S. <hi>Philomathematicus.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year. 1659.</p>
+            <pb facs="tcp:35707:2"/>
+            <pb facs="tcp:35707:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:35707:3"/>
+            <head>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for Exciſe.</head>
+            <opener>
+               <salute>May it pleaſe your Worſhips,</salute>
+            </opener>
+            <p>AS this Diſcourſe, and the Treatiſe called, <hi>The Cry of the Oppreſ<g ref="char:EOLhyphen"/>ſed, &amp;c.</hi> and the Supplement to that Treatiſe, are nothing elſe but a Vindication of your Worſhips Actings before <hi>1656.</hi> and of the Conſtant practice of all former Commiſſioners, for the Exciſe, even from the be<g ref="char:EOLhyphen"/>ginning of the Laws of Exciſe. They having, as is very well known, made uſe of all three Gallons (to wit) of the Wine Gallon, containing <hi>231</hi> Cu<g ref="char:EOLhyphen"/>bical inches, to meaſure Wine of all ſorts, Sope, Oil, Honey, Strong Wa<g ref="char:EOLhyphen"/>ter, &amp;c<g ref="char:punc">▪</g> And of the Ale Gallon, containing <hi>288</hi> Cubical inches <hi>¾</hi> for Ale and Beer: And of the Exchequer Gallon, containing <hi>272</hi> Cubical inches, as for Salt, and all drie things Exciſeable. And as the Author hath nothing elſe in deſign but a Vindication of your Worſhips former and preſent Actings, and the manifestation of Truth and Juſtice; ſo he hopeth he ſhall find your Worſhips Patrons of his paper labours, to whoſe ſerious and judicious peruſal he humbly Dedicates them: That ſo your Worſhips being rightly informed of the diverſity and legality of the three Meaſures, you may at laſt return to do your firſt and beſt works. As it hath been your unhappineſs to be the firſt who by Mr. <hi>Lyons</hi> falſe in<g ref="char:EOLhyphen"/>formations and ſuggeſtions, did take up this moſt unequal Gauge, ſo it may be your Honour to be the firſt in laying it down;</p>
+            <epigraph>
+               <q>
+                  <hi>Nunquam ſera eſt ad bonos mores via.</hi>
+               </q>
+            </epigraph>
+            <closer>
+               <signed>Yours to ſerve you in all wayes of Juſtice and Righteouſneſs, <hi>S. S.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <head>An Anſwer to a fooliſh Pamphlet, entituled, <hi>The Exche<g ref="char:EOLhyphen"/>quer Gallon Vindicated.</hi>
+            </head>
+            <opener>
+               <salute>Worthy Sirs,</salute>
+            </opener>
+            <p>AS I have met with <hi>John Lyon,</hi> Couchant, in his cloſe and private Remonſtrance delivered in to the Honorable, the Commiſſioners for bringing in the Arrears due to the Com<g ref="char:EOLhyphen"/>monwealth; wherein I have detected two notorious untruths offered unto their Honours; as, 1. <hi>That the Exchequer Gal<g ref="char:EOLhyphen"/>lon was in uſe in Broad-ſtreet from the beginning of that Office.</hi> And Secondly, <hi>That four</hi> Wincheſter <hi>or Ale quarts, did exactly agree with the Exchequer Gallon.</hi> So likewiſe I having met with Mr. <hi>Lyon</hi> Rampant in print, or his folly in <hi>Folio,</hi> I doubt not but as I have made appear, That his Remonſtrance was compoſed of Sophiſtical Fallacy, and impudent Falſity, ſo likewiſe to make manifeſt, That this pityful Pamphlet is but a confuſed heap of blind Bayard-like folly, or
+<pb facs="tcp:35707:3"/>very profound ignorance, and that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ted by a Syllog<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m in <hi>Bocardo,</hi> then by any ſerious and ſollid demonſtra<g ref="char:EOLhyphen"/>tion. But leſt <hi>John Lyon</hi> ſhould glory in his Folly, Fallacies and Fal<g ref="char:EOLhyphen"/>ſities, <hi>Confutandi Gratia,</hi> I thus reduce his wild, confuſed and unſigni<g ref="char:EOLhyphen"/>ficant diſcourſe into theſe two heads;
+<list>
+                  <item>1. He endeavours to prove, <hi>That the Exchequer Gallon is the true and only Standard Gallon of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>that all things are to be meaſured by it.</hi>
+                  </item>
+                  <item>2. <hi>That the Coopers Bar<g ref="char:EOLhyphen"/>rels are, and muſt be made by that Gallon.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>For the manifeſtation of his firſt Poſition he goeth very far, even as far as <hi>Magna Charta,</hi> and cites 9 <hi>Hen.</hi> 3 cap. 25 which ſaith, <hi>One Meaſure of Wine ſhall be throughout our Realm: One Meaſure of Corn</hi> (that is to ſay) <hi>according to the quarter of</hi> London, <hi>&amp;c. And as it is of Weights, ſo it ſhall be of Meaſures;</hi> which is as much as to ſay, <hi>
+                  <g ref="char:V">Ʋ</g>num pondus, &amp; una menſura ſit per totum Regnum noſtrum.</hi>
+            </p>
+            <p>To what purpoſe he cites this Statute, I cannot tell, unleſs it be to ſhew, how that the Corn Gallon and the Wine Gallon are all one; and ſo to prove, That <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Exchequer Gallon is the Standard Gallon of <hi>England,</hi> to meaſure all things, as Wine, Ale and Corn: Which if ſo, why doth not Mr. <hi>Lyon</hi> meaſure Wine, Oil and Sope, Strong Waters, &amp;c. by that Gallon alſo; or rather, why do the Commiſſioners of Ex<g ref="char:EOLhyphen"/>ciſe, who are under an Oath to be faithful in their places, do the peo<g ref="char:EOLhyphen"/>ple of <hi>England</hi> ſo great an injurie, as to Gauge Wines, Oile, Sope, Honey, &amp;c. by the Wine Gallon, containing but 231 Cubical inches, and not by the Exchequer Gallon, which contains 272 Cubical inches, which Mr. <hi>Lyon</hi> affirms to be a Standard Gallon to meaſure all things, as well liquids as dry? Worthy Commiſſioners, and ſingularly learned Mr. <hi>Lyon,</hi> I expect your Anſwer to this, otherwiſe you muſt bluſh at ſuch Actings.</p>
+            <p n="2">2. He cites Statutes made the 17 <hi>Edw.</hi> 2 I ſuppoſe he means the 18 <hi>Edw.</hi> 2. as the Ordinance for Bakers, and Brewers, and Victulars, and for Ells, Buſhels and Foreſtallers, <hi>cap.</hi> 8. &amp; 9. which provide, <hi>That there ſhall be Standards of Buſhels and Gallons, &amp;c.</hi> But what they are, or ſhould be, the new Ordinance there cited, called, <hi>The Or<g ref="char:EOLhyphen"/>dinance for Meaſures,</hi> or, as it is ſtiled in o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Magna Charta, Compoſi<g ref="char:EOLhyphen"/>tio menſurarum,</hi> ſheweth; which ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith, <hi>That by the conſent of the whole Realm, the meaſures of our Soveraign Lord the King was made; (that is to ſay) An Engliſh penny called a Sterling, round and without clipping, ſhall weigh</hi> 32 <hi>wheat Cornes in the midſt of the Ear, and</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0<hi rend="sup">d</hi> 
+               <hi>ſhall make an ounce, and</hi> 12 <hi>ounces one pound, and</hi> 8 li. <hi>ſhall make a Gallon of Wine, and eight Gallons of Wine ſhall make a Buſhel</hi> London, <hi>&amp;c.</hi> For what
+<pb facs="tcp:35707:4"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> except it be to prove that the Wine Gallon is the Standard Gallon of <hi>England,</hi> for which I contend.</p>
+            <p>If he by the Wine Gallon in this Ordinance underſtands his Exche<g ref="char:EOLhyphen"/>quer Gallon, why then doth not that Gallon agree with eigh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pound of Wheat of <hi>Troy</hi> weight, as this Ordinance doth direct, and according as 12. <hi>Hen.</hi> 7. <hi>cap.</hi> 5. doth ſet forth? If Mr. <hi>Lyon</hi> ſeriouſly compare this Ordinance with the Statute of 12 <hi>Hen.</hi> 7. <hi>cap.</hi> 5. he muſt either re<g ref="char:EOLhyphen"/>cant, or hang down his head like a Bul-ruſh as he doth.</p>
+            <q>Fortis eſt Veritas &amp; praevalebit.</q>
+            <p n="3">3. He cites 15.25, 27. <hi>Hen.</hi> 3. all which Statutes provides, <hi>That all Buſhels, half Buſhels, Pecks, half Pecks, Pottles and Quarts through</hi> England, <hi>as well within Franchiſes as without, ſhall be according to the Kings Standard.</hi> Note, theſe Statutes do not ſay, According to the Standards, but according to the Standard, which is the Wine Gallon, as in that Ordinance aforeſaid: So that the different pottles and quarts, as the Wine quart, and the Ale quart; and ſo the Wine Gallon, the Ale Gallon, and the Corn Gallon muſt agree with the Standard, that is, not to be of equal capacity or content, for then all quarts muſt agree with the Standard Gallon, which we find to be falſe by experience; for the Ale quart in the Exchequer is of a larger ſize then the Standard, for it's a fift bigger then the Wine quart, and one 18<hi rend="sup">•</hi> part bigger then the Corn quart, which agreeth with the now Exchequer Standard Gallon; for 4 Ale Exchequer quarts over-runs the Exchequer Gallon almoſt half a pint, which is the proportion the Brewers contend for. Yet this Statute ſaith, <hi>It muſt be according to the Standard,</hi> that is, it muſt agree with the ſtan<g ref="char:EOLhyphen"/>dard according to its aſſize, which <hi>Roger de Hoveden,</hi> cited in the Trea<g ref="char:EOLhyphen"/>tiſe called, <hi>The Cry of the Oppreſſed,</hi> explaineth to be, <hi>Secundum diver<g ref="char:EOLhyphen"/>ſitatem liquorum,</hi> which is the proportion of 4 to 5 &amp;c.</p>
+            <p>Mr. <hi>Lyon</hi> proceeds to cite more Statutes, all which he blindfoldly applies to prove the now Exchequer Gallon to be the Standard Gallon for all things; as 15. <hi>Rich.</hi> 2. <hi>cap.</hi> 4.16. <hi>Rich.</hi> 2. <hi>cap.</hi> 3. which ſaith, <hi>There ſhall be one meaſure of Wine, Corn, and A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and all meaſures ſhall be made according to the Standard in the Exchequer;</hi> which Standard is the Wine-gallon mention<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the old Ordinance for Meaſures; So that <hi>unum pondus, &amp; una menſura ſit per totum regnum noſtrum,</hi> muſt be underſtood <hi>cum grano ſalis.</hi> Not that all Meaſures ſhould be of equal capacitie, or content with the Standard: but according to the Standard, which Expoſitors expound to be meant <hi>ſecundum aſſiſam vel proportio<g ref="char:EOLhyphen"/>nem,</hi> which Mr. <hi>Lyon</hi> by no means will grant. So <hi>Roger de Hugden</hi> a<g ref="char:EOLhyphen"/>fore-cited doth expound; <hi>
+                  <g ref="char:V">Ʋ</g>na menſura vini &amp; cerviſiae,</hi> that is, ſaith
+<pb facs="tcp:35707:4" rendition="simple:additions"/>he, <hi>ſecun<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſaith, <hi>unum pondus,</hi> that he expound; to be <hi>ſecundum diverſitatem mercaturarum:</hi> So the pound Troy, and the pound Aver du pois are one, although they di<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er as four to 5; ſo likewiſe <hi>Magna Charta</hi> ſaith, <hi>One Meaſure, one Weight, one Yard;</hi> yet we know <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that are apt to ſhrink are meaſured by the Ell, which is the proportion of 5 to 4. ſo when <hi>Magna Charta,</hi> and theſe Statutes do ſay, <hi>One meaſure of Corn and Wine,</hi> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> muſt not be underſtood one <hi>ſecundum capacitatem,</hi> but one as it is expreſſed <hi>ſecundum quarterium Londini,</hi> raſed and ſtricken, which is as all Artiſts do obſerve the proportion of 28 to 33, as appears in the Treatiſe called, <hi>The crie of the Oppreſſed.</hi>
+            </p>
+            <p>Mr. <hi>Lyon</hi> will needs make us believe likewiſe that 11. <hi>Hen.</hi> 7. <hi>cap.</hi> 4. ſpeaks for his Standard, and no other; which is moſt ridiculouſly abſurd; for why then was that Standard Gallon and Buſhel, and all Buſhels and Gal<g ref="char:EOLhyphen"/>lons made by it broken and damned the next year, <hi>viz.</hi> 12. <hi>H.</hi> 7. <hi>c.</hi> 5 when the now Exchequer Gallon was made, and it is yet more evident, That the Wine Gallon was then the Standard Gallon, for that in that Act it is provided, That the liquid or water-meaſure on ſhip-board to be uſed was to contein 5 pecks of the Standard, that is 5 pecks Wine-meaſure, as the Liquid or Water-ſide Buſhel uſed at Bear-key, and Brooks wharf, which is called the Wincheſter and common-buſhel, holdeth ten Gallons wine-meaſure, which is 5 pecks of-the Wine-Standard, and not 5 pecks of the now-Standard in the Exchequer, which then would be a very exceeding great Buſhel, as is evident.</p>
+            <p>The now Exchequer Gallon was never made or placed in the Exche<g ref="char:EOLhyphen"/>quer untill 12. <hi>Hen.</hi> 7. <hi>cap.</hi> 5. and then, and not till then was made a Stan<g ref="char:EOLhyphen"/>dard-Gallon for Drie things onely. In <hi>Haec Verba: Wherefore the King our Sovereign Lord, by the aſſent of the Lords ſpiritual and temporal, and the Commons in this Parlament aſſembled, and by authority thereof or<g ref="char:EOLhyphen"/>daineth, eſtabliſheth, and enacteth, That the meaſure of the Buſhel contein</hi> 8 <hi>Gallons of Wheat, and every Gallon</hi> 8 li. <hi>of Wheat of Troy-weight, and every</hi> li. <hi>contein</hi> 12 <hi>Ounces of Troy-weight, and every Ounce contein</hi> 20 <hi>Sterlings, and every Sterling to be of the weight of</hi> 32 <hi>Wheat corns in the midſt of the ear, according <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> old Law of the Land: which old Law ſaith exp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſly that</hi> 8 li. <hi>of Wheat of Troy-weight ſhall make a Gallon of Wine:</hi> So that according to the letter of this Act, this is but a confirma<g ref="char:EOLhyphen"/>tion of the old Standards, which were the Troy-weight and Wine-mea<g ref="char:EOLhyphen"/>ſures, <hi>ut ſuperiùs;</hi> and therefore a ſufficient wa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ant for your Worſhips to uſe the Wine-gallon,</p>
+            <p>Note: This Statute proceeds, and ſaith; <hi>And that it pleaſeth the
+<pb facs="tcp:35707:5"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſhel and a Gallon after the ſaid Aſſize, to remain in his ſaid Treaſury for ever.</hi> Note, It is not ſaid according to the old Laws and Statutes of the Realm as is afore-declared, but after the ſaid Aſſize, <hi>viz.</hi> for Drie things: the which this Buſhel and Gallon was to meaſure in Markets, &amp;c. as is at large ſet forth in the <hi>Supplement</hi> to the Treatiſe, called, <hi>The Crie of the Oppreſſed.</hi>
+            </p>
+            <p>Thus I have made it appear, that the Troy-weight and Wine-mea<g ref="char:EOLhyphen"/>ſure were the Standards in the Exchequer until the Statute 12. <hi>Henry</hi> 7. <hi>cap.</hi> 5. which alſo confirms them as above is proved, and yet for the preventing of miſtakes in ſizing of Buſhels and Gallons which are half-pecks to be ſent to Markets, &amp;c. The Wine-gallon which was <hi>de facto</hi> the Standard in all ages, untill the 12. <hi>Henry</hi> 7. and is now <hi>de jure</hi> by the letter of that Act the Standard of <hi>England,</hi> was thence removed, and this Gallon for drie things onely (which Mr. <hi>Lyon</hi> m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes a Gallon for Liquids and Drie things) there placed, for the preventing of miſtakes in ſizing of Buſhels and Gallons to be ſent down into the Countries.</p>
+            <p>I proceed to Mr. <hi>Lions</hi> Second Undertaking, which is to prove, <hi>That the Coopers Barrels are, and muſt be made according to the Exchequer Gal<g ref="char:EOLhyphen"/>lon, or Standard.</hi>
+            </p>
+            <p>That they are made by that Gallon is ſuch a notorious untruth, that I will no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> take the pains to diſprove it. But whether they muſt be made by that Gallon, is the grand and onely queſtion.</p>
+            <p>By the 23. <hi>Hen.</hi> 8. <hi>cap.</hi> 4. It is ordained and enacted, <hi>That every Barrel for Beer ſhall contein</hi> 36 <hi>Gallons, every Kilderkin</hi> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Gallons, &amp;c. of the Kings Standard Gallon, &amp;c.</hi> But there is no other Standard Gal<g ref="char:EOLhyphen"/>lon, ſaith Mr. <hi>Lyon: Ergo.</hi> It's confeſſed, if a man reads no more of that Act, a learneder man then Mr. <hi>Lion</hi> might conſtrue it to be under<g ref="char:EOLhyphen"/>ſtood of the Kings Standard Gallon of the Exchequer; as was Mr. <hi>Oughtred,</hi> a man whom I admire for his univerſal skill in all Arts and Sciences. But if Mr. <hi>Lyon</hi> be willing to correct his miſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke, and be de<g ref="char:EOLhyphen"/>ſirous to be ſatisfied by what Gallon the Coopers do and muſt m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke their Barrels, he muſt read the latter part of the Statu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>(viz.)</hi> that clauſe; <hi>It is enacted that every Cooper that hereafter ſhall make any Veſſels ſpeci<g ref="char:EOLhyphen"/>fied in the ſaid Act, ſhall from the feaſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ntecoſt next coming make every ſuch veſſel according to the Aſſize mentioned in the Treatiſe called,</hi> Compoſitio Menſuratum: <hi>that is to ſay, Every Barrel for Ale ſhall contein</hi> 32 <hi>Gallons of the ſaid Aſſize, whereof</hi> 8 <hi>Gallons make the common Buſhel.</hi>
+            </p>
+            <p>No<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e: This clauſe is like a Hand to point out by what Gallon the Barrels are to be made. <hi>viz.</hi> By the Coopers great Gallon of 288 Cubi<g ref="char:EOLhyphen"/>cal Inches ¾ for the common Buſhel which at this day is in the Exche<g ref="char:EOLhyphen"/>quer,
+<pb facs="tcp:35707:5"/>conteins 8 Gallons accor<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 8 Gallons according to the Standard-gallon, which contein 272 Cubi<g ref="char:EOLhyphen"/>cal Inches, 8 Gallons of which makes the Standard Buſhel, which at this day is in the Exchequer likewiſe. Neither muſt it be underſtood by the Common Buſhel, the Standard Buſhel; for then this clauſe would ſignifie nothing, but be a Tautologie: and therefore the Coopers whom this clauſe principally concerns, and who by this Statute are made the Judges of the Content of all Veſſels made, by virtue of this Act; and to whom, by this Act, the Sizing and Gaugeing of all Veſſels is com<g ref="char:EOLhyphen"/>mitted, and for that end have ſworn Gaugers and Sealers appointed, do underſtand it of the Gallon conteining 288 Cubical Inches ¾, and no other, which in the Sta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ute 31. <hi>Eliz. cap.</hi> 8. is called the Standard ap<g ref="char:EOLhyphen"/>pointed and allowed for Beer and Ale, of which Standard or Gallon Mr. <hi>Lyon</hi> by no means will take any notice. And the Gallon, <hi>viz.</hi> the Win<g ref="char:EOLhyphen"/>cheſter, agreeth with the Coopers Scantlings, as is cleared in the Trea<g ref="char:EOLhyphen"/>tiſe, called, <hi>The Crie of the Oppreſſed, &amp;c.</hi>
+            </p>
+            <p>Further, by no Law your Worſhips, nor yet any Gauger general, are made the Judges of the Content of the Beer-barrel; and therefore for you to judge any thing to be a Barrel of Beer or Ale other then what agreeth with the Coopers Scantlings (Pardon my boldneſs) ſuch judgments of yours are void in Law, and reverſable; becauſe <hi>coram non judice:</hi> the Maſter and Wardens of the Company of Coopers being the ſole Judges of the Content of a Barrel of Beer or Ale, and that by 23. <hi>Hen.</hi> 8. <hi>cap.</hi> 4.</p>
+            <p>But that your Worſhips ſhould be fully ſatisfied in a point of ſuch grand concernment to the State and People, I ſhall make it appear, that the Exciſe is to be paid by that Gallon, conteining 288 Cubical Inches, ¾, and no other; and that by a Proviſo of that Ordinance of Parlament made 17 <hi>Octob.</hi> 1643. where it is ordained, <hi>That no Brewer, or Retailer of Beer, or Ale, Perry, Cider, &amp;c. ſhall take any more in the price there<g ref="char:EOLhyphen"/>of, upon the ſale of the ſame commodities, then according to the uſual rates and prices appointed by Law for the ſame (excepting onely the rate for Exciſe) as they will anſwer their contempts herein to both Houſes of Par<g ref="char:EOLhyphen"/>lament.</hi>
+            </p>
+            <p>In which Proviſo your Worſhips may obſerve two things: 1. That the Brewers are to take but the Rate of a Barrel of Beer or Ale Annual<g ref="char:EOLhyphen"/>ly ſet by the Juſtices, which is this year at ten ſhillings the Barrel, except it be 2 <hi>s.</hi> &amp; 6 <hi>d. per</hi> Barrel for the Exciſe: This rate is ſet upon the Coopers Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rels, ſealed, marked, and ſized according to the Statute, which are made by the Coopers great Gallon, conteining 288 Cubical
+<pb facs="tcp:35707:6"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 8. <hi>cap.</hi> 4. the Brewers are to ſell by no other, therefore he muſt collect his Exciſe by them alſo; and therefore conſequently muſt be gauged by that Gallon, whereof 36 Gallons make that Barrel, which is the Gallon conteining 288 Cubical Inches ¾.</p>
+            <p n="2">2. The Victualler or Retailer of Beer or Ale, by 1 <hi>Jac. cap.</hi> 9. is to ſell a full Ale-quart of the beſt Beer or Ale for a penny, and by this Or<g ref="char:EOLhyphen"/>dinance he is to take no more then the Exciſe of that Quart; ſo that the Victualler is to take his Exciſe by that Gallon which correſponds with the Ale-quart, which is by all Artiſts called, the Ale, or Winche<g ref="char:EOLhyphen"/>ſter Gallon; and conſequently he muſt receive his Beer and Ale by the ſame meaſure, and conſequen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly the Brewers muſt be Gauged by that Gallon, whereof 4 full Ale-quarts make the Gallon: <hi>Quid pleniùs aut planiùs?</hi>
+            </p>
+            <p>Thus I have, as I humbly conceive, vindicated your Worſhips from that pitiful ſcandalous Libel of <hi>John Ly-on,</hi> who in his Title page ſaith <hi>[Written in behalf of the Common-wealth]</hi> when as it is clear, that Paper doth caſt a very great aſperſion upon the Commiſſioners of the Com<g ref="char:EOLhyphen"/>mon-wealth for Exciſe, as if they had betraied their truſt in Gaugeing by all 3 Gallons, when as he ſaith, The Exchequer Gallon is the Standard Gallon for all Liquids and drie things: So that in effect he doth charge your Worſhips of cheating the people of this Nation, by Gauging moſt Liquid things; as, Wine, Oile, Sope, Strong-waters, &amp;c. by the Wine-gallon, conteining 231 Cubical Inches, when as he ſaith, they ought to be Gauged by the Exchequer Standard Gallon, conteining 272. He chargeth likewiſe the Maſter and Wardens of the Company of Coo<g ref="char:EOLhyphen"/>pers, and their ſworn Gaugers and Sealers, of Knavery and perjury, for m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>king, ſizing, and ſealing Barrels that hold ſome 38, ſome 39 of his Standard Gallon. He chargeth alſo the Maſter and Wardens, and Com<g ref="char:EOLhyphen"/>pany of Brewers of Selffiſhneſs and diſhoneſty, for ſelling 38 Gallons of the Exchequer, whereas he ſaith, they ought to ſell but 36 of thoſe Gallons to the Barrel.</p>
+            <p>Thus <hi>John Ly-on,</hi> as bold as a Lyon, hath ſcandalized 3 Worſhipful Orders and Societies of men, in his moſt abſurd Libell; which can be no leſs then <hi>Crimen leſae Majeſtatis,</hi> and therefore ought to be puniſhed as a Libeller; and to have his impudent forehead Branded with the Let<g ref="char:EOLhyphen"/>ter <hi>L,</hi> whereby he may be known to be a Libeller, as well as a beaſt of Prey <hi>John Lion.</hi>
+            </p>
+            <epigraph>
+               <q>Pudent haec opprobria vobis, dici potuiſſe &amp; non potuiſſe re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elli.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35707:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
